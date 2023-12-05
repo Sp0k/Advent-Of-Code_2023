@@ -63,7 +63,7 @@ the official website does.
 <!-- Day 3 -->
 <td>3</td>
 <td>2/2</td>
-<td>(1) >24hr<br>(2) >24hr</td>
+<td>(1) >24hrs<br>(2) >24hrs</td>
 <td>N/A</td>
 <td>(1) 88676<br>(2) 84731</td>
 </tr>
