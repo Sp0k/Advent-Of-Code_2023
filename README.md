@@ -67,5 +67,23 @@ the official website does.
 <td>N/A</td>
 <td>(1) 88676<br>(2) 84731</td>
 </tr>
+
+<!-- Day 4 -->
+<tr>
+<td>4</td>
+<td> /2</td>
+<td>(1) <br>(2) </td>
+<td>N/A</td>
+<td>(1) <br>(2) </td>
+</tr>
+
+<!-- Day 5 -->
+<tr>
+<td>4</td>
+<td> /2</td>
+<td>(1) <br>(2) </td>
+<td>N/A</td>
+<td>(1) <br>(2) </td>
+</tr>
 </table>
 </div>
